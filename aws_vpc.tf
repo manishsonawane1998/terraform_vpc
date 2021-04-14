@@ -1,8 +1,8 @@
 provider "aws" {
 region = "us-east-1"
-access_key = "ASIAWOMP7QDE4MCI7L7S"
-secret_key = "sT7AAqyxQ3y82sqwVJRvVXkrXUnSqeavyoLvM9AZ"
-token = "IQoJb3JpZ2luX2VjEI3//////////wEaCXVzLXdlc3QtMiJIMEYCIQCZKl982U0/cSpIgux85ycB6bTFhH1DB3b09O59fk5P6gIhAPuFAVL3NeSqJsJjjN1SVqqdO44NLGEAQ14PdQwr2wgeKr4CCOb//////////wEQABoMNDQzMjIwNDU5NzIxIgw/ZFG3Wv6k/C0yoQsqkgJhblgdS59YVG77cA63/hVgH04vJxtp7Qv7p5K3C9iiqrV9XuRLtAYx+txHYDHprWeNA+pJJxy5pUanEn1k0Lw7vM0A3XNSkmLSu9bwuwCXzgJowGg/hxtIJatyFQguOY3iIK0bCNlp7ngy2TTP/0Z4ISKBUNBmjgeIaIeBAXSOH3ccPmzVknBKvihs8Pdi4qHraHoqkUNuviQKfZIi+u+7UMFZHPTC4QN2apla5Odx2pY5Wq9r14+vAxbuF4Q7Kqqo/LF/1B8FZAOskZGRgukWd5oY0mdPTFNWj+xNk4lgDQDx49YUloXBipekgoY7S4DKjWG/+ntwZ1G07y+wOL9In4uo4jYxabzlXvOmTAmiJsmxMMH12YMGOpwBnTj9VxbsXWVa3vBu6Q3OYrmUy3YvGFHOcrJCaQez+yUJPxyUveEhm5suhCkvXYpbgykvCFbhwSfGez3kkaNSVfzWVjdl6rM/nyXvxsaMWSGnTedIK66TIyNPZT8ej6m7zrmrMS7W8H5OREteT4unLT6449GtaPpZrWa/K6gUzwgmI2/d3bE2+EtQI3I5TnEe8wtwJtXDiwqpbNLw"
+access_key = "+++"
+secret_key = "+++++"
+token = "+++++++++++++"
 }
 resource "aws_vpc" "main" {
 cidr_block = "20.20.0.0/16"
